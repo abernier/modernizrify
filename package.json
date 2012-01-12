@@ -1,0 +1,10 @@
+{
+  "name": "modernizrify",
+  "description": "Modernizr lib for browsers",
+  "version": "0.0.1",
+  "author": "Antoine BERNIER (abernier)",
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index.js"
+}
