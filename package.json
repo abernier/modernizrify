@@ -2,6 +2,10 @@
   "name": "modernizrify",
   "description": "Modernizr lib for browsers",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:abernier/modernizrify.git"
+  },
   "author": "Antoine BERNIER (abernier)",
   "engines": {
     "node": "*"
